@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            HerdNerds
 locale:           en_US
 url:              
 
@@ -30,7 +30,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
-  disqus-shortname: 
+  disqus-shortname: herdnerds
   twitter: #username
   facebook: #username
   google:
